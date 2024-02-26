@@ -1,4 +1,4 @@
-# Server-Monitoring-Software
+# Server Monitoring Software
 # SSH Monitoring for the BIZON Z500 Deep Learning Workstation
 ## Introduction
 Secure Shell Protocol (SSH) monitoring can be challenging for users due to the need for terminal commands, a connection setup with a username, IP address, and password. To simplify this process, we developed a user-friendly software. This application offers a more intuitive interface, consolidating all data in one place.
